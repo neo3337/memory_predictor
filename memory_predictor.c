@@ -1,5 +1,6 @@
 //memorypredictor
-//AI by Arsene Denisov
+//GNU GPL license
+//AI by Arsene Denisov, a cybersecurity expert
 //Maya
 //Dao Tao Kali Yuga
 //GNU GPL license
